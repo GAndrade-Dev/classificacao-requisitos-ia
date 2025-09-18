@@ -49,6 +49,8 @@ Após a conclusão, avalie o modelo:
 Terminal
 
 python check_accuracy.py
+
+
 ✒️ Autor
 [Seu Nome Completo]
 
