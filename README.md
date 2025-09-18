@@ -31,22 +31,22 @@ Fine-Tuning: Técnica central usada para otimizar o modelo base para a tarefa es
 🚀 Como Rodar
 Instale as dependências:
 
-Bash
+Terminal
 
 pip install openai
 Configure sua chave da API da OpenAI:
 
-Bash
+Terminal
 
 export OPENAI_API_KEY='sua_chave_aqui'
 Inicie o Fine-Tuning:
 
-Bash
+Terminal
 
 python start_fine_tuning.py
 Após a conclusão, avalie o modelo:
 
-Bash
+Terminal
 
 python check_accuracy.py
 ✒️ Autor
