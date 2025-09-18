@@ -1,10 +1,13 @@
 🎯 O Desafio
+
 O objetivo deste projeto foi aprimorar um modelo de linguagem para classificar requisitos de software como funcionais ou não-funcionais. Modelos de propósito geral, como o GPT-3.5, frequentemente falham em tarefas específicas, como evidenciado pela acurácia inicial de apenas 55.14% na nossa base de dados.
 
 💡 A Solução
+
 Para otimizar o desempenho, aplicamos a técnica de Fine-Tuning. Um conjunto de dados personalizado de requisitos já classificados foi preparado para treinar o modelo gpt-3.5-turbo, permitindo que ele aprendesse a reconhecer padrões e nuances do domínio de engenharia de software.
 
 ✅ Resultados
+
 O Fine-Tuning foi altamente eficaz. A acurácia do modelo ajustado subiu de 55.14% para 91.59%, uma melhoria de mais de 36%. Este resultado demonstra que o treinamento com dados específicos é crucial para adaptar modelos de IA a tarefas de classificação complexas.
 
 🛠️ Destaques Técnicos
