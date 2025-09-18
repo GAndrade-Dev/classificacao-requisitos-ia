@@ -18,11 +18,16 @@ OpenAI API: Interface para interagir com os modelos de linguagem.
 Fine-Tuning: Técnica central usada para otimizar o modelo base para a tarefa específica.
 
 📂 Estrutura do Projeto
+
 .
 ├── dataset.jsonl                  # Dados de teste e avaliação (107 requisitos)
+
 ├── dataset-train.jsonl            # Dados usados para o Fine-Tuning
+
 ├── check_accuracy.py              # Script para avaliar a acurácia do modelo
+
 └── start_fine_tuning.py           # Script para iniciar o processo de Fine-Tuning
+
 🚀 Como Rodar
 Instale as dependências:
 
