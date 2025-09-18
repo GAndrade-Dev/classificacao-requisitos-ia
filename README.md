@@ -11,6 +11,7 @@ Para otimizar o desempenho, aplicamos a técnica de Fine-Tuning. Um conjunto de 
 O Fine-Tuning foi altamente eficaz. A acurácia do modelo ajustado subiu de 55.14% para 91.59%, uma melhoria de mais de 36%. Este resultado demonstra que o treinamento com dados específicos é crucial para adaptar modelos de IA a tarefas de classificação complexas.
 
 🛠️ Destaques Técnicos
+
 Python: Linguagem principal para o desenvolvimento dos scripts de automação.
 
 OpenAI API: Interface para interagir com os modelos de linguagem.
